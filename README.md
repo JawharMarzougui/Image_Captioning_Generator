@@ -22,7 +22,6 @@ This is a Deep Learning Model for generating captions for images. It uses techni
     <li><a href="#result">Predicted Result</a> </li>
     <li><a href="#frameworks">Frameworks, Libraries & Languages</a></li>
     <li><a href="#deployment">Deployment</a></li>
-    <li><a href="#demo">Demo</a></li>
     <li><a href="#conclusion">Conclusion</a></li>
     <li><a href="#acknowledgement">Acknowledgement</a></li>
 </ol>
@@ -97,16 +96,8 @@ Image | Caption
 
 <h2 id="deployment">Deployment</h2>
 
-I made a web application using streamlit framework. This web application is hosted and deployed on two platforms: [HuggingFace Spaces](https://huggingface.co/spaces/MdRiad/Image_caption_generator) and [share.streamlit.io](https://imagecaptiongenerator-cjmnhj4scsrxheqxtsmune.streamlit.app/). The implementation can be found in ```app``` folder.
+I made a web application using streamlit framework. This web application is hosted and deployed it on streamlit [share.streamlit.io](https://imagecaptiongenerator-cjmnhj4scsrxheqxtsmune.streamlit.app/). The implementation can be found in ```app``` folder.
 
-
-<h2 id="demo">Demo</h2>
-
-
-This my web application demo. The application you can find [HuggingFace Spaces](https://huggingface.co/spaces/MdRiad/Image_caption_generator) and [share.streamlit.io](https://imagecaptiongenerator-cjmnhj4scsrxheqxtsmune.streamlit.app/).
-
-
-https://github.com/riad5089/Image_Caption_Generator/assets/93583569/270f348f-404a-4823-b014-bed14be0d5b1
 
 <h2 id="conclusion">Conclusion</h2>
 
